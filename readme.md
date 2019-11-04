@@ -8,4 +8,4 @@ Unsupervised:
 
 Supervised:
 + Regression
-- Simple linear regression
+    - Simple linear regression
