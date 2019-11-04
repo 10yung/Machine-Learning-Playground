@@ -3,9 +3,9 @@ Stuff aobut common machine learning algorithms.
 
 
 Unsupervised:
-1. K means
-2. Meanshift
++ K means
++ Meanshift
 
 Supervised:
-1. Regression
-  * Simple linear regression
++ Regression
+- Simple linear regression
